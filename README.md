@@ -1,16 +1,17 @@
 # yakishopingcart
 
-A new Flutter project.
+A Flutter Project
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is simple project, just to learn the basics Flutter Bloc Concept
+- Bloc Consumer
+- Bloc Event
+- Bloc state
 
-A few resources to get you started if this is your first Flutter project:
+# Images
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image 1](https://github.com/yakobsolo/shoping_cart_flutter/blob/master/lib/data/screenshots/photo_2024-03-08_16-54-20.jpg)
+![image 2](https://github.com/yakobsolo/shoping_cart_flutter/blob/master/lib/data/screenshots/photo_2024-03-08_16-54-21.jpg)
+![image 3](https://github.com/yakobsolo/shoping_cart_flutter/blob/master/lib/data/screenshots/photo_2024-03-08_16-54-25.jpg)
+![image 4](https://github.com/yakobsolo/shoping_cart_flutter/blob/master/lib/data/screenshots/photo_2024-03-08_16-54-19.jpg)
